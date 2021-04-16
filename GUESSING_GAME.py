@@ -1,4 +1,3 @@
-# this is an easy and fun project!!!
 import random
 from Tkinter import*
 
